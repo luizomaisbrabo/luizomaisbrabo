@@ -1,5 +1,5 @@
--# sobre mim
--Meu E-mail de contato é@luiz.soares.teixeira@escola.pr.gov.br
+-# Sobre mim
+-Meu E-mail de contato é @luiz.soares.teixeira@escola.pr.gov.br
 -estou interessado em programação
 -🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
